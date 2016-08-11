@@ -1,4 +1,4 @@
-![PROGRAMACIÓN I](https://raw.githubusercontent.com/gcoronelc/UCH_INGSOFT3_001/master/uch_prog1_2016_2.png)
+![PROGRAMACIÓN I](https://raw.githubusercontent.com/gcoronelc/UCH_PROG_I_2016_2/master/uch_prog1_2016_2.png)
 
 # PROGRAMACIÓN I
 
