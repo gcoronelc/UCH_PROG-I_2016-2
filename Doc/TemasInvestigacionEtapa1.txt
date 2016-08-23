@@ -1,12 +1,23 @@
 1.- Patrones Factory
     Illesca Silva, Soles Sanchez, Alcides Abad
+
 2.- Principios SOLID
-3.- Patrón MCV
+    
+
+3.- Patrón MVC
     Aguilar Ventura, Herrera Fistas, Ferrer Rubio
+
 4.- Patrón Inyección de Dependencias
+
+
 5.- Expresiones Lambda y Strem en Java 8
+    
+
 6.- Pruebas unitarias
+    
+
 7.- Creación de log
+    Carrion Del Pino, Rivera Quispe, Zegarra Mora
 
 
 
