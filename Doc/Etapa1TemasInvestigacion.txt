@@ -11,10 +11,10 @@
 
 
 5.- Expresiones Lambda y Strem en Java 8
-    
+    Salaverry Marcos, Atauje Victor
 
 6.- Pruebas unitarias
-    
+    Eche Jenniffer, De Sousa Roberto, 
 
 7.- Creación de log
     Carrion Del Pino, Rivera Quispe, Zegarra Mora
