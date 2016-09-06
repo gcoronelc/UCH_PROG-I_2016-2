@@ -14,7 +14,7 @@
     Salaverry Marcos, Atauje Victor
 
 6.- Pruebas unitarias
-    Eche Jenniffer, De Sousa Roberto, 
+    Eche Jenniffer, De Sousa Roberto, Soto Vento
 
 7.- Creación de log
     Carrion Del Pino, Rivera Quispe, Zegarra Mora
