@@ -2,7 +2,7 @@
     Illesca Silva, Soles Sanchez, Alcides Abad
 
 2.- Principios SOLID
-    
+    Cortés Baldovino
 
 3.- Patrón MVC
     Aguilar Ventura, Herrera Fistas, Ferrer Rubio
