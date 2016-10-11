@@ -11,7 +11,7 @@ Temas de Investigación
     
 
 4.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
-        
+    Soto, Zegarra 
 
 5.- Reportes con Jasper Report
     (Reportes, Subreportes, tablas, graficos)
