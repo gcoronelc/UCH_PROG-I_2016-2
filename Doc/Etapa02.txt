@@ -1,0 +1,54 @@
+Temas de Investigación
+=======================
+
+1.- Expresiones Lambda y Strem en Java 8
+    Aguilar, Herrera, Cortés
+
+2.- Hilos
+    Soles, 
+
+3.- Sockets
+    
+
+4.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
+        
+
+5.- Reportes con Jasper Report
+    (Reportes, Subreportes, tablas, graficos)
+    Carrion Del Pino, Rivera Quispe
+
+6.- Generics
+    Eche, Abad
+
+7.- Manejo de documentos XML
+    (XML, DTD, Esquemas, XLS, XLST, Librerias para Java, Etc.)
+
+
+
+
+EVALUACION
+==================================
+- Presentación: Peso 1
+- Monografía: Peso 2
+- Exposición: Peso 2
+- Ejemplos1: Peso 3
+- Respuestas: Peso 1
+
+
+CLASES
+=======================
+
+Semana 09:
+Semana 10:
+Semana 11: Practica 01
+Semana 12: 
+Semana 13: Practica 02
+Semana 14:
+Semana 15: Examen Final
+Semana 16: Trabajos Investigación
+Semana 17: Sustitutorio
+
+
+
+
+
