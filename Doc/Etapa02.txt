@@ -8,7 +8,7 @@ Temas de Investigación
     Soles, 
 
 3.- Sockets
-    
+    Ferrer
 
 4.- Manejo de Archivos Excel (Usar POI): Exportar e Importar
     Soto, Zegarra 
@@ -24,6 +24,14 @@ Temas de Investigación
     (XML, DTD, Esquemas, XLS, XLST, Librerias para Java, Etc.)
 
 
+8.- API JSON de Java
+
+
+9.- Implementación de un CRUD con JDBC
+
+
+
+
 
 
 EVALUACION
@@ -31,7 +39,7 @@ EVALUACION
 - Presentación: Peso 1
 - Monografía: Peso 2
 - Exposición: Peso 2
-- Ejemplos1: Peso 3
+- Ejemplos: Peso 3
 - Respuestas: Peso 1
 
 
